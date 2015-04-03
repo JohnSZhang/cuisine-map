@@ -1,0 +1,16 @@
+{
+  "name": "cuisine-map",
+  "version": "0.0.1",
+  "description": "a world cuisine visualization map",
+  "author": "John Zhang <john.shimin.zhang@gmail.com>",
+  "main": "lib/foo.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnSZhang/cuisine-map.git"
+  },
+  "devDependencies": {
+    "d3": "^3.5.5",
+    "mongodb": "~2.0"
+  },
+  "license": "MIT"
+}
