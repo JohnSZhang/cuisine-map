@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "d3": "^3.5.5",
-    "mongodb": "~2.0"
+    "mongodb": "~2.0",
+    "request": "^2.54.0"
   },
   "license": "MIT"
 }
